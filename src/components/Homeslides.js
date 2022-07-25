@@ -52,8 +52,8 @@ export default function Homeslides() {
           </div>
           <div className="carousel-item">
             <img src={slide3} className="d-block w-100" alt="..." />
-            <div className="carousel-caption d-none d-md-block">
-              <h2 style={{color:"$pink-200"}}>Here you get exceptional service and Mouthwatering Taste.</h2>
+            <div className="carousel-caption d-none d-md-block text-align-center center">
+              <h2>Here you get exceptional service and Mouthwatering Taste.</h2>
               <h5>Try our wide range of products.</h5>
             </div>
           </div>
