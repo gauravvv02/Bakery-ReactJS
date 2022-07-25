@@ -12,6 +12,7 @@ export default class Cakes extends Component {
       <>
         {/* <img src="https://images.unsplash.com/photo-1507751030261-fad8907a59a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1177&q=80" alt="" className="img-fluid rounded" style={myStyle} /> */}
         <div className="container my-3">
+        <h2 classname="heading">Shakes</h2>
           <div className="row">
             <div className="col md-4">
               <AddItems name="Vanilla Shake" price="Price : Rs. 200" itemimage="https://media.gettyimages.com/photos/dine-out-the-vanilla-milkshake-at-the-recently-opened-black-cow-on-picture-id989904680?s=2048x2048" />

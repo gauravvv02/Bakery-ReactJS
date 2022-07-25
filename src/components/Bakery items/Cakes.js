@@ -7,6 +7,7 @@ export default class Cakes extends Component {
       <>
         <div className="cakes">
           <div className="container my-3">
+          <h2 classname="heading">Cakes</h2>
             <div className="row">
               <div className="col md-4">
                 <AddItems
